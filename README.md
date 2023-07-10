@@ -1,4 +1,5 @@
 ### Hi there 👋
+### this is a demo webpage to show that I, Elizabeth Marchini did the github activity practice for stat 184.
 
 <!--
 **emarchini25/emarchini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
