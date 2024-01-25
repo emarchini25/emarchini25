@@ -1,5 +1,9 @@
 ### Hi there 👋
-### this is a demo webpage to show that I, Elizabeth Marchini did the github activity practice for stat 184.
+### My name is Elizabeth Marchini
+### I am currently a senior at Penn State University dual majoring in Biology and Statistics.
+### I have so far worked with R and C++, but I have goals to become experienced with SAS and Python as well!
+
+
 
 <!--
 **emarchini25/emarchini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
