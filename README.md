@@ -1,7 +1,10 @@
 ### Hi there 👋
 ### My name is Elizabeth Marchini
-### I am currently a senior at Penn State University dual majoring in Biology and Statistics.
-### I have so far worked with R and C++, but I have goals to become experienced with SAS and Python as well!
+### I am a graduate of Penn State, and I dual majored in Biology and Statistics.
+### I am currently enrolled at Univeristy of Pittsburgh working towards a MPH in Epidemiology
+### I have so far worked with R, SAS, C++, and Python!
+
+### You can reach me through my email emarchini2721@gmail.com
 
 
 
